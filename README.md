@@ -24,4 +24,3 @@ There are a few files in utils:
 - The `example.js` script shows how we can generate a root, generate a proof and verify that some value is in the root using the proof. Try it out from the top-level folder with `node/example.js`
 - The `MerkleTree.js`. You can import this in your client/server
 - The `verifyProof.js` should also look familiar. You can use this function to prove a name is in the merkle root, as show in the example.
-# Gift-List
